@@ -1,2 +1,4 @@
-# genie_derivative
+# grand_av_lil
+
+
 Genie Derivatives magically derives averages, simplifying mean calculation tasks with efficient algorithms, ensuring accurate results for your data analysis needs.

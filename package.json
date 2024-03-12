@@ -1,0 +1,26 @@
+{
+  "name": "genie_derivative",
+  "version": "1.0.0",
+  "description": "Genie Derivatives magically derives averages, simplifying mean calculation tasks with efficient algorithms, ensuring accurate results for your data analysis needs.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "genie_derivative": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GebiriEugen105/genie_derivative.git"
+  },
+  "homepage": "https://github.com/GebiriEugen105/genie_derivative/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "GebiriEugen105",
+  "license": "MIT"
+}
